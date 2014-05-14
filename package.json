@@ -1,0 +1,27 @@
+{
+  "name": "ddp-random",
+  "version": "0.8.1-1",
+  "description": "Node module of Meteor's Random package",
+  "main": "random.js",
+  "scripts": {
+    "test": "node random_tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oortcloud/ddp-random.git"
+  },
+  "keywords": [
+    "meteor",
+    "random",
+    "ddp"
+  ],
+  "author": "emgee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oortcloud/ddp-random/issues"
+  },
+  "homepage": "https://github.com/oortcloud/ddp-random",
+  "devDependencies": {
+    "test": "^0.6.0"
+  }
+}
