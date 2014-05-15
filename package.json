@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/oortcloud/ddp-random",
   "devDependencies": {
-    "test": "^0.6.0"
+    "test": "~0.6.0"
   }
 }
